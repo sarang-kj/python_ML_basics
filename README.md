@@ -1,1 +1,1 @@
-# python_ML_basics
+# This repo consists of Python for basic ML applications
